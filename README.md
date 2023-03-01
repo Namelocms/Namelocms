@@ -1,5 +1,3 @@
-[![Namelocms' GitHub stats](https://github-readme-stats.vercel.app/api?username=Namelocms&show_icons=true&theme=transparent&hide_title=true&ring_color=FFD700&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namelocms&layout=compact&theme=transparent&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Namelocms)
